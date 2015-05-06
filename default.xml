@@ -23,5 +23,7 @@
 	<project name="HeeroYui/glew"/>
 	<project name="HeeroYui/bullet"/>
 	<project name="HeeroYui/libpng"/>
+	
 	<project name="musicdsp/manifest"/>
+	<include name="musicdsp/manifest/default.xml"/>
 </manifest>
