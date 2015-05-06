@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="origin"
+	        fetch="https://github.com/"/>
+	<default revision="master" remote="origin" sync-s="true"/>
+	<!--
+	    name : repository name
+	    path : installation path of the repository
+	-->
+	<project name="HeeroYui/etk"/>
+	<project name="HeeroYui/ejson"/>
+	<project name="HeeroYui/exml"/>
+	<project name="HeeroYui/libfreetype"/>
+	<project name="HeeroYui/z"/>
+	<project name="HeeroYui/audio-ess"/>
+	<project name="HeeroYui/exml"/>
+	<project name="HeeroYui/esvg"/>
+	<project name="HeeroYui/enet"/>
+	<project name="HeeroYui/ege"/>
+	<project name="HeeroYui/egami"/>
+	<project name="HeeroYui/libagg"/>
+	<project name="HeeroYui/gtest"/>
+	<project name="HeeroYui/glew"/>
+	<project name="HeeroYui/bullet"/>
+	<project name="HeeroYui/libpng"/>
+	<project name="HeeroYui/earchive"/>
+	<project name="musicdsp/manifest"/>
+</manifest>
