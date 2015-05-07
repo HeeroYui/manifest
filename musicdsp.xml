@@ -9,16 +9,17 @@
 	    name : repository name
 	    path : installation path of the repository
 	-->
-	<project name="musicdsp/audio"/>
-	<project name="musicdsp/audio-algo-drain"/>
-	<project name="musicdsp/audio-algo-river"/>
-	<project name="musicdsp/audio-algo-speex"/>
-	<project name="musicdsp/audio-algo-chunkware"/>
-	<project name="musicdsp/audio-drain"/>
-	<project name="musicdsp/audio-river"/>
-	<project name="musicdsp/audio-orchestra"/>
-	<project name="musicdsp/portaudio"/>
-	<project name="musicdsp/speex"/>
-	<project name="musicdsp/speexdsp"/>
-	<project name="musicdsp/ogg"/>
+	<project name="musicdsp/audio"                path="audio"/>
+	<project name="musicdsp/audio-algo-drain"     path="audio-algo-drain"/>
+	<project name="musicdsp/audio-algo-river"     path="audio-algo-river"/>
+	<project name="musicdsp/audio-algo-speex"     path="audio-algo-speex"/>
+	<project name="musicdsp/audio-algo-chunkware" path="audio-algo-chunkware"/>
+	<project name="musicdsp/audio-drain"          path="audio-drain"/>
+	<project name="musicdsp/audio-river"          path="audio-river"/>
+	<project name="musicdsp/audio-orchestra"      path="audio-orchestra"/>
+	<!-- generic library -->
+	<project name="musicdsp/portaudio"            path="lib/portaudio"/>
+	<project name="musicdsp/speex"                path="lib/speex"/>
+	<project name="musicdsp/speexdsp"             path="lib/speexdsp"/>
+	<project name="musicdsp/ogg"                  path="lib/ogg"/>
 </manifest>

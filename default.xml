@@ -7,22 +7,29 @@
 	    name : repository name
 	    path : installation path of the repository
 	-->
-	<project name="HeeroYui/etk"/>
-	<project name="HeeroYui/ejson"/>
-	<project name="HeeroYui/exml"/>
-	<project name="HeeroYui/esvg"/>
-	<project name="HeeroYui/enet"/>
-	<project name="HeeroYui/ege"/>
-	<project name="HeeroYui/egami"/>
-	<project name="HeeroYui/ewol"/>
-	<project name="HeeroYui/libfreetype"/>
-	<project name="HeeroYui/z"/>
-	<project name="HeeroYui/audio-ess"/>
-	<project name="HeeroYui/libagg"/>
-	<project name="HeeroYui/gtest"/>
-	<project name="HeeroYui/glew"/>
-	<project name="HeeroYui/bullet"/>
-	<project name="HeeroYui/libpng"/>
+	<project name="HeeroYui/etk"         path="etk"/>
+	<project name="HeeroYui/ejson"       path="ejson"/>
+	<project name="HeeroYui/exml"        path="exml"/>
+	<project name="HeeroYui/esvg"        path="esvg"/>
+	<project name="HeeroYui/enet"        path="enet"/>
+	<project name="HeeroYui/ege"         path="ege"/>
+	<project name="HeeroYui/egami"       path="egami"/>
+	<project name="HeeroYui/data"        path="data"/>
+	<project name="HeeroYui/ewol"        path="ewol"/>
+	<project name="HeeroYui/audio-ess"   path="audio-ess"/>
+	
+	<!-- generic library -->
+	<project name="HeeroYui/libfreetype" path="lib/freetype"/>
+	<project name="HeeroYui/z"           path="lib/z"/>
+	<project name="HeeroYui/libagg"      path="lib/agg"/>
+	<project name="HeeroYui/gtest"       path="lib/gtest"/>
+	<project name="HeeroYui/glew"        path="lib/glew"/>
+	<project name="HeeroYui/bullet"      path="lib/bullet"/>
+	<project name="HeeroYui/libpng"      path="lib/png"/>
+	<project name="HeeroYui/edtaa3"      path="lib/edtaa3"/>
+	
+	<!-- tools -->
+	<project name="HeeroYui/ios-deploy"  path="tools/ios-deploy"/>
 	
 	<!-- came from : https://github.com/musicdsp/manifest.git : default.xml -->
 	<include name="musicdsp.xml"/>
