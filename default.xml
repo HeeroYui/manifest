@@ -14,7 +14,7 @@
 	<project name="HeeroYui/enet"        path="enet"/>
 	<project name="HeeroYui/ege"         path="ege"/>
 	<project name="HeeroYui/egami"       path="egami"/>
-	<project name="HeeroYui/data"        path="data"/>
+	<project name="HeeroYui/date"        path="date"/>
 	<project name="HeeroYui/ewol"        path="ewol"/>
 	<project name="HeeroYui/audio-ess"   path="audio-ess"/>
 	
