@@ -3,7 +3,6 @@
 	<remote name="origin"
 	        fetch="https://github.com/"/>
 	<default revision="master" remote="origin" sync-s="true"/>
-	<manifest-server url="https://github.com/musicdsp/manifest.git"/>
 	<!--
 	    name : repository name
 	    path : installation path of the repository
@@ -25,5 +24,6 @@
 	<project name="HeeroYui/bullet"/>
 	<project name="HeeroYui/libpng"/>
 	
-	<!--<include name="musicdsp/default.xml"/>-->
+	<!-- came from : https://github.com/musicdsp/manifest.git : default.xml -->
+	<include name="musicdsp.xml"/>
 </manifest>
