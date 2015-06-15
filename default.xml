@@ -21,7 +21,7 @@
 	<!-- generic library -->
 	<project name="generic-library/freetype-lutin" path="generic-library/freetype-lutin"/>
 	<project name="generic-library/z-lutin"        path="generic-library/z-lutin"/>
-	<project name="generic-library/agg-lutin"      path="generic-library/agg-lutin"/>
+	<project name="atria-soft/libagg"      path="generic-library/libagg"/>
 	<project name="generic-library/gtest-lutin"    path="generic-library/gtest-lutin"/>
 	<project name="generic-library/glew-lutin"     path="generic-library/glew-lutin"/>
 	<project name="generic-library/bullet-physics" path="generic-library/bullet-physics-lutin"/>
