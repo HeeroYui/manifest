@@ -7,29 +7,29 @@
 	    name : repository name
 	    path : installation path of the repository
 	-->
-	<project name="HeeroYui/etk"         path="etk"/>
-	<project name="HeeroYui/ejson"       path="ejson"/>
-	<project name="HeeroYui/exml"        path="exml"/>
-	<project name="HeeroYui/esvg"        path="esvg"/>
-	<project name="HeeroYui/enet"        path="enet"/>
-	<project name="HeeroYui/ege"         path="ege"/>
-	<project name="HeeroYui/egami"       path="egami"/>
-	<project name="HeeroYui/date"        path="date"/>
-	<project name="HeeroYui/ewol"        path="ewol"/>
-	<project name="HeeroYui/audio-ess"   path="audio-ess"/>
+	<project name="atria-soft/etk"         path="atria-soft/etk"/>
+	<project name="atria-soft/ejson"       path="atria-soft/ejson"/>
+	<project name="atria-soft/exml"        path="atria-soft/exml"/>
+	<project name="atria-soft/esvg"        path="atria-soft/esvg"/>
+	<project name="atria-soft/enet"        path="atria-soft/enet"/>
+	<project name="atria-soft/ege"         path="atria-soft/ege"/>
+	<project name="atria-soft/egami"       path="atria-soft/egami"/>
+	<project name="atria-soft/date"        path="atria-soft/date"/>
+	<project name="atria-soft/ewol"        path="atria-soft/ewol"/>
+	<project name="HeeroYui/audio-ess"     path="HeeroYui/audio-ess"/>
 	
 	<!-- generic library -->
-	<project name="HeeroYui/libfreetype" path="lib/freetype"/>
-	<project name="HeeroYui/z"           path="lib/z"/>
-	<project name="HeeroYui/libagg"      path="lib/agg"/>
-	<project name="HeeroYui/gtest"       path="lib/gtest"/>
-	<project name="HeeroYui/glew"        path="lib/glew"/>
-	<project name="HeeroYui/bullet"      path="lib/bullet"/>
-	<project name="HeeroYui/libpng"      path="lib/png"/>
-	<project name="HeeroYui/edtaa3"      path="lib/edtaa3"/>
+	<project name="generic-library/freetype-lutin" path="generic-library/freetype-lutin"/>
+	<project name="generic-library/z-lutin"        path="generic-library/z-lutin"/>
+	<project name="generic-library/agg-lutin"      path="generic-library/agg-lutin"/>
+	<project name="generic-library/gtest-lutin"    path="generic-library/gtest-lutin"/>
+	<project name="generic-library/glew-lutin"     path="generic-library/glew-lutin"/>
+	<project name="generic-library/bullet-physics" path="generic-library/bullet-physics-lutin"/>
+	<project name="generic-library/png-lutin"      path="generic-library/png-lutin"/>
+	<project name="generic-library/edtaa3-lutin"   path="generic-library/edtaa3-lutin"/>
 	
 	<!-- tools -->
-	<project name="HeeroYui/ios-deploy"  path="tools/ios-deploy"/>
+	<project name="generic-library/ios-deploy"  path="tools/ios-deploy"/>
 	
 	<!-- came from : https://github.com/musicdsp/manifest.git : default.xml -->
 	<include name="musicdsp.xml"/>
