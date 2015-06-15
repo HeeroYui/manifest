@@ -9,14 +9,14 @@
 	    name : repository name
 	    path : installation path of the repository
 	-->
-	<project name="musicdsp/audio"                path="audio"/>
-	<project name="musicdsp/audio-algo-drain"     path="audio-algo-drain"/>
-	<project name="musicdsp/audio-algo-river"     path="audio-algo-river"/>
-	<project name="musicdsp/audio-algo-speex"     path="audio-algo-speex"/>
-	<project name="musicdsp/audio-algo-chunkware" path="audio-algo-chunkware"/>
-	<project name="musicdsp/audio-drain"          path="audio-drain"/>
-	<project name="musicdsp/audio-river"          path="audio-river"/>
-	<project name="musicdsp/audio-orchestra"      path="audio-orchestra"/>
+	<project name="musicdsp/audio"                path="musicdsp/audio"/>
+	<project name="musicdsp/audio-algo-drain"     path="musicdsp/audio-algo-drain"/>
+	<project name="musicdsp/audio-algo-river"     path="musicdsp/audio-algo-river"/>
+	<project name="musicdsp/audio-algo-speex"     path="musicdsp/audio-algo-speex"/>
+	<project name="musicdsp/audio-algo-chunkware" path="musicdsp/audio-algo-chunkware"/>
+	<project name="musicdsp/audio-drain"          path="musicdsp/audio-drain"/>
+	<project name="musicdsp/audio-river"          path="musicdsp/audio-river"/>
+	<project name="musicdsp/audio-orchestra"      path="musicdsp/audio-orchestra"/>
 	<!-- generic library -->
 	<project name="generic-library/portaudio-lutin" path="generic-library/portaudio-lutin"/>
 	<project name="generic-library/speex-lutin"     path="generic-library/speex-lutin"/>
