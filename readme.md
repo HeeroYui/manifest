@@ -15,10 +15,11 @@ Get repo:
 Create the tree:
 ----------------
 
-	mkdir WORKING_DIRECTORY
-	cd WORKING_DIRECTORY
-	repo init -u https://github.com/HeeroYui/manifest.git
+	mkdir framework
+	cd framework
+	repo init -u https://github.com/atria-soft/manifest.git
 	repo sync -j8
+	cd ..
 
 
 Now all is done ...
