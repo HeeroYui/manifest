@@ -18,8 +18,8 @@
 	<project name="musicdsp/audio-river"          path="audio-river"/>
 	<project name="musicdsp/audio-orchestra"      path="audio-orchestra"/>
 	<!-- generic library -->
-	<project name="musicdsp/portaudio"            path="lib/portaudio"/>
-	<project name="musicdsp/speex"                path="lib/speex"/>
-	<project name="musicdsp/speexdsp"             path="lib/speexdsp"/>
-	<project name="musicdsp/ogg"                  path="lib/ogg"/>
+	<project name="generic-library/portaudio-lutin" path="generic-library/portaudio-lutin"/>
+	<project name="generic-library/speex-lutin"     path="generic-library/speex-lutin"/>
+	<project name="generic-library/speex-dsp-lutin" path="generic-library/speex-dsp-lutin"/>
+	<project name="generic-library/ogg-lutin"       path="generic-library/ogg-lutin"/>
 </manifest>
