@@ -8,6 +8,7 @@
 	    path : installation path of the repository
 	-->
 	<project name="atria-soft/etk"         path="atria-soft/etk"/>
+	<project name="atria-soft/gale"        path="atria-soft/gale"/>
 	<project name="atria-soft/ejson"       path="atria-soft/ejson"/>
 	<project name="atria-soft/exml"        path="atria-soft/exml"/>
 	<project name="atria-soft/esvg"        path="atria-soft/esvg"/>
