@@ -28,7 +28,7 @@
 	<project name="generic-library/bullet-physics-lutin" path="generic-library/bullet-physics-lutin"/>
 	<project name="generic-library/png-lutin"            path="generic-library/png-lutin"/>
 	<project name="generic-library/edtaa3-lutin"         path="generic-library/edtaa3-lutin"/>
-	<project name="generic-library/cxx-lutin"            path="generic-library/cxx-lutin"/>
+	<!--<project name="generic-library/cxx-lutin"            path="generic-library/cxx-lutin"/>-->
 	
 	<!-- tools -->
 	<project name="generic-library/ios-deploy"  path="tools/ios-deploy"/>
