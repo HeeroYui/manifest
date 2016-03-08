@@ -19,6 +19,8 @@
 	<project name="atria-soft/ewol"        path="atria-soft/ewol"/>
 	<project name="atria-soft/eproperty"   path="atria-soft/eproperty"/>
 	<project name="atria-soft/esignal"     path="atria-soft/esignal"/>
+	<project name="atria-soft/ememory"     path="atria-soft/ememory"/>
+	<project name="atria-soft/elog"        path="atria-soft/elog"/>
 	<project name="atria-soft/jvm-basics"  path="atria-soft/jvm-basics"/>
 	<project name="HeeroYui/audio-ess"     path="HeeroYui/audio-ess"/>
 	
