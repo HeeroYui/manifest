@@ -33,6 +33,9 @@
 	<project name="generic-library/bullet-physics-lutin" path="generic-library/bullet-physics-lutin"/>
 	<project name="generic-library/png-lutin"            path="generic-library/png-lutin"/>
 	<project name="generic-library/edtaa3-lutin"         path="generic-library/edtaa3-lutin"/>
+	<project name="generic-library/openssl-lutin"        path="generic-library/openssl-lutin"/>
+	<project name="generic-library/ssh2-lutin"           path="generic-library/ssh2-lutin"/>
+	<project name="generic-library/curl-lutin"           path="generic-library/curl-lutin"/>
 	<!--<project name="generic-library/cxx-lutin"            path="generic-library/cxx-lutin"/>-->
 	
 	<!-- tools -->
