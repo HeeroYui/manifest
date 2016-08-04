@@ -23,6 +23,7 @@
 	<project name="atria-soft/ethread"     path="atria-soft/ethread"/>
 	<project name="atria-soft/elog"        path="atria-soft/elog"/>
 	<project name="atria-soft/jvm-basics"  path="atria-soft/jvm-basics"/>
+	<project name="atria-soft/zeus"        path="atria-soft/zeus"/>
 	<project name="HeeroYui/audio-ess"     path="HeeroYui/audio-ess"/>
 	
 	<!-- generic library -->
@@ -36,6 +37,9 @@
 	<project name="generic-library/openssl-lutin"        path="generic-library/openssl-lutin"/>
 	<project name="generic-library/ssh2-lutin"           path="generic-library/ssh2-lutin"/>
 	<project name="generic-library/curl-lutin"           path="generic-library/curl-lutin"/>
+	<project name="generic-library/openssl-lutin"        path="generic-library/openssl-lutin"/>
+	<project name="generic-library/openh264-lutin"       path="generic-library/openh264-lutin"/>
+	<project name="generic-library/matroska-lutin"       path="generic-library/matroska-lutin"/>
 	<!--<project name="generic-library/cxx-lutin"            path="generic-library/cxx-lutin"/>-->
 	
 	<!-- tools -->
