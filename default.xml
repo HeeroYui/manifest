@@ -27,28 +27,6 @@
 	<project name="atria-soft/jvm-basics"  path="atria-soft/jvm-basics"/>
 	<project name="atria-soft/zeus"        path="atria-soft/zeus"/>
 	
-	<!-- generic library -->
-	<project name="generic-library/freetype-lutin"       path="generic-library/freetype-lutin"/>
-	<project name="generic-library/z-lutin"              path="generic-library/z-lutin"/>
-	<project name="generic-library/gtest-lutin"          path="generic-library/gtest-lutin"/>
-	<project name="generic-library/glew-lutin"           path="generic-library/glew-lutin"/>
-	<project name="generic-library/bullet-physics-lutin" path="generic-library/bullet-physics-lutin"/>
-	<project name="generic-library/png-lutin"            path="generic-library/png-lutin"/>
-	<project name="generic-library/edtaa3-lutin"         path="generic-library/edtaa3-lutin"/>
-	<project name="generic-library/openssl-lutin"        path="generic-library/openssl-lutin"/>
-	<project name="generic-library/ssh2-lutin"           path="generic-library/ssh2-lutin"/>
-	<project name="generic-library/curl-lutin"           path="generic-library/curl-lutin"/>
-	<project name="generic-library/cpp-unit-lutin"       path="generic-library/cpp-unit-lutin"/>
-	<project name="generic-library/openh264-lutin"       path="generic-library/openh264-lutin"/>
-	<project name="generic-library/ebml-lutin"           path="generic-library/ebml-lutin"/>
-	<project name="generic-library/matroska-lutin"       path="generic-library/matroska-lutin"/>
-	<project name="generic-library/opencv-lutin"         path="generic-library/opencv-lutin"/>
-	<project name="generic-library/zxing-cpp-lutin"      path="generic-library/zxing-cpp-lutin"/>
-	<!--<project name="generic-library/cxx-lutin"            path="generic-library/cxx-lutin"/>-->
-	
-	<!-- tools -->
-	<project name="generic-library/ios-deploy"  path="tools/ios-deploy"/>
-	
 	<!-- came from : https://github.com/musicdsp/manifest.git : default.xml -->
 	<include name="musicdsp.xml"/>
 	<include name="generic-library.xml"/>
