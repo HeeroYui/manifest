@@ -7,6 +7,8 @@
 	    name : repository name
 	    path : installation path of the repository
 	-->
+	<project name="atria-soft/algue"       path="atria-soft/algue"/>
+	<project name="atria-soft/dollar"      path="atria-soft/dollar"/>
 	<project name="atria-soft/etk"         path="atria-soft/etk"/>
 	<project name="atria-soft/gale"        path="atria-soft/gale"/>
 	<project name="atria-soft/ejson"       path="atria-soft/ejson"/>
@@ -24,7 +26,6 @@
 	<project name="atria-soft/elog"        path="atria-soft/elog"/>
 	<project name="atria-soft/jvm-basics"  path="atria-soft/jvm-basics"/>
 	<project name="atria-soft/zeus"        path="atria-soft/zeus"/>
-	<project name="HeeroYui/audio-ess"     path="HeeroYui/audio-ess"/>
 	
 	<!-- generic library -->
 	<project name="generic-library/freetype-lutin"       path="generic-library/freetype-lutin"/>
@@ -37,10 +38,12 @@
 	<project name="generic-library/openssl-lutin"        path="generic-library/openssl-lutin"/>
 	<project name="generic-library/ssh2-lutin"           path="generic-library/ssh2-lutin"/>
 	<project name="generic-library/curl-lutin"           path="generic-library/curl-lutin"/>
-	<project name="generic-library/cpp-unit-lutin"        path="generic-library/cpp-unit-lutin"/>
+	<project name="generic-library/cpp-unit-lutin"       path="generic-library/cpp-unit-lutin"/>
 	<project name="generic-library/openh264-lutin"       path="generic-library/openh264-lutin"/>
 	<project name="generic-library/ebml-lutin"           path="generic-library/ebml-lutin"/>
 	<project name="generic-library/matroska-lutin"       path="generic-library/matroska-lutin"/>
+	<project name="generic-library/opencv-lutin"         path="generic-library/opencv-lutin"/>
+	<project name="generic-library/zxing-cpp-lutin"      path="generic-library/zxing-cpp-lutin"/>
 	<!--<project name="generic-library/cxx-lutin"            path="generic-library/cxx-lutin"/>-->
 	
 	<!-- tools -->
@@ -48,4 +51,5 @@
 	
 	<!-- came from : https://github.com/musicdsp/manifest.git : default.xml -->
 	<include name="musicdsp.xml"/>
+	<include name="generic-library.xml"/>
 </manifest>
