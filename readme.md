@@ -22,6 +22,15 @@ On ubuntu/debian
 sudo apt-get install repo
 ```
 
+On MacOs:
+```{.sh}
+#Install brew installer
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null
+# intall repo
+brew install repo
+```
+
+
 
 Create the tree:
 ----------------
