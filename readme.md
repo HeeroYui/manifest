@@ -11,6 +11,9 @@ mkdir ~/.bin
 PATH=~/.bin:$PATH
 curl https://storage.googleapis.com/git-repo-downloads/repo > ~/.bin/repo
 chmod a+x ~/.bin/repo
+
+# Add if on your bash path (linux: ~/.bashrc and MacOs: ~/.bash_profile)
+echo "export PATH=~/.bin/:$PATH" >> ~/.bashrc
 ```
 on archlinux:
 ```{.sh}
