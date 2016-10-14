@@ -3,30 +3,7 @@
 	<remote name="origin"
 	        fetch="https://github.com/"/>
 	<default revision="master" remote="origin" sync-s="true"/>
-	<!--
-	    name : repository name
-	    path : installation path of the repository
-	-->
-	<project name="atria-soft/algue"       path="atria-soft/algue"/>
-	<project name="atria-soft/dollar"      path="atria-soft/dollar"/>
-	<project name="atria-soft/etk"         path="atria-soft/etk"/>
-	<project name="atria-soft/gale"        path="atria-soft/gale"/>
-	<project name="atria-soft/ejson"       path="atria-soft/ejson"/>
-	<project name="atria-soft/exml"        path="atria-soft/exml"/>
-	<project name="atria-soft/esvg"        path="atria-soft/esvg"/>
-	<project name="atria-soft/enet"        path="atria-soft/enet"/>
-	<project name="atria-soft/ege"         path="atria-soft/ege"/>
-	<project name="atria-soft/egami"       path="atria-soft/egami"/>
-	<project name="atria-soft/date"        path="atria-soft/date"/>
-	<project name="atria-soft/ewol"        path="atria-soft/ewol"/>
-	<project name="atria-soft/eproperty"   path="atria-soft/eproperty"/>
-	<project name="atria-soft/esignal"     path="atria-soft/esignal"/>
-	<project name="atria-soft/ememory"     path="atria-soft/ememory"/>
-	<project name="atria-soft/ethread"     path="atria-soft/ethread"/>
-	<project name="atria-soft/elog"        path="atria-soft/elog"/>
-	<project name="atria-soft/jvm-basics"  path="atria-soft/jvm-basics"/>
-	<project name="atria-soft/zeus"        path="atria-soft/zeus"/>
-	
+        <include name="atria-soft.xml"/>
 	<!-- came from : https://github.com/musicdsp/manifest.git : default.xml -->
 	<include name="musicdsp.xml"/>
 	<include name="generic-library.xml"/>
