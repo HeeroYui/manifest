@@ -23,6 +23,8 @@
 	<project name="generic-library/opencv-lutin"         path="generic-library/opencv-lutin"/>
 	<project name="generic-library/zxing-cpp-lutin"      path="generic-library/zxing-cpp-lutin"/>
 	<project name="generic-library/fdk-aac-lutin"        path="generic-library/fdk-aac-lutin"/>
+        <project name="generic-library/jpeg-lutin"           path="generic-library/jpeg-lutin"/>
+        <project name="generic-library/openjpeg-lutin"       path="generic-library/openjpeg-lutin"/>
 	<!--<project name="generic-library/cxx-lutin"            path="generic-library/cxx-lutin"/>-->
 	
 	<!-- tools -->
