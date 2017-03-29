@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<!--<remote name="origin" fetch="https://github.com/"/>-->
-	<remote name="origin" fetch="ssh://heero@192.168.0.156/git/"/>
+	<remote name="origin" fetch="../../">
+		<mirror name="github" fetch="https://github.com/"/>
+		<mirror name="gitlab" fetch="https://gitlab.com/"/>
+		<mirror name="bitbucket" fetch="https://bitbucket.com/"/>
+	</remote>
 	<default revision="master" remote="origin" sync-s="true"/>
-        <include name="atria-soft.xml"/>
+	<include name="atria-soft.xml"/>
 	<include name="musicdsp.xml"/>
 	<include name="generic-library.xml"/>
 </manifest>
