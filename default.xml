@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="origin"
-	        fetch="https://github.com/"/>
+	<!--<remote name="origin" fetch="https://github.com/"/>-->
+	<remote name="origin" fetch="ssh://192.168.0.156/git/"/>
 	<default revision="master" remote="origin" sync-s="true"/>
         <include name="atria-soft.xml"/>
-	<!-- came from : https://github.com/musicdsp/manifest.git : default.xml -->
 	<include name="musicdsp.xml"/>
 	<include name="generic-library.xml"/>
 </manifest>
