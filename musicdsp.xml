@@ -9,13 +9,13 @@
 	    name : repository name
 	    path : installation path of the repository
 	-->
-	<project name="musicdsp/audio"                path="musicdsp/audio"/>
-	<project name="musicdsp/audio-algo-drain"     path="musicdsp/audio-algo-drain"/>
-	<project name="musicdsp/audio-algo-river"     path="musicdsp/audio-algo-river"/>
-	<project name="musicdsp/audio-algo-speex"     path="musicdsp/audio-algo-speex"/>
-	<project name="musicdsp/audio-algo-chunkware" path="musicdsp/audio-algo-chunkware"/>
-	<project name="musicdsp/audio-drain"          path="musicdsp/audio-drain"/>
-	<project name="musicdsp/audio-river"          path="musicdsp/audio-river"/>
-	<project name="musicdsp/audio-orchestra"      path="musicdsp/audio-orchestra"/>
-	<project name="musicdsp/audio-ess"            path="musicdsp/audio-ess"/>
+	<project name="musicdsp/audio.git"                path="musicdsp/audio"/>
+	<project name="musicdsp/audio-algo-drain.git"     path="musicdsp/audio-algo-drain"/>
+	<project name="musicdsp/audio-algo-river.git"     path="musicdsp/audio-algo-river"/>
+	<project name="musicdsp/audio-algo-speex.git"     path="musicdsp/audio-algo-speex"/>
+	<project name="musicdsp/audio-algo-chunkware.git" path="musicdsp/audio-algo-chunkware"/>
+	<project name="musicdsp/audio-drain.git"          path="musicdsp/audio-drain"/>
+	<project name="musicdsp/audio-river.git"          path="musicdsp/audio-river"/>
+	<project name="musicdsp/audio-orchestra.git"      path="musicdsp/audio-orchestra"/>
+	<project name="musicdsp/audio-ess.git"            path="musicdsp/audio-ess"/>
 </manifest>
