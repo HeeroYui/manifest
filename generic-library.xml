@@ -12,7 +12,6 @@
 	<project name="generic-library/z-lutin.git"              path="generic-library/z-lutin"/>
 	<project name="generic-library/gtest-lutin.git"          path="generic-library/gtest-lutin"/>
 	<project name="generic-library/glew-lutin.git"           path="generic-library/glew-lutin"/>
-	<project name="generic-library/bullet-physics-lutin.git" path="generic-library/bullet-physics-lutin"/>
 	<project name="generic-library/png-lutin.git"            path="generic-library/png-lutin"/>
 	<project name="generic-library/edtaa3-lutin.git"         path="generic-library/edtaa3-lutin"/>
 	<project name="generic-library/openssl-lutin.git"        path="generic-library/openssl-lutin"/>
