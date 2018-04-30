@@ -27,6 +27,9 @@
 	<project name="generic-library/jpeg-lutin.git"           path="generic-library/jpeg-lutin"/>
 	<project name="generic-library/openjpeg-lutin.git"       path="generic-library/openjpeg-lutin"/>
 	<project name="generic-library/sqlite-lutin.git"       path="generic-library/sqlite-lutin"/>
+	<project name="generic-library/webp-lutin.git"           path="generic-library/webp-lutin"/>
+	<project name="generic-library/webm-lutin.git"           path="generic-library/webm-lutin"/>
+	<project name="generic-library/vpx-lutin.git"            path="generic-library/vpx-lutin"/>
 	<!--<project name="generic-library/cxx-lutin.git"            path="generic-library/cxx-lutin"/>-->
 	<!-- tools -->
 	<project name="generic-library/ios-deploy.git"  path="tools/ios-deploy"/>
