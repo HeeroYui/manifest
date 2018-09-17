@@ -10,4 +10,5 @@
 	<include name="atria-soft.xml"/>
 	<include name="musicdsp.xml"/>
 	<include name="generic-library.xml"/>
+	<include name="atria-tools.xml"/>
 </manifest>

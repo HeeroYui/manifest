@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<!--
+	    name : repository name
+	    path : installation path of the repository
+	-->
+	<project name="atria-tools/estyle.git"      path="atria-tools/estyle"/>
+</manifest>
