@@ -30,6 +30,7 @@
 	<project name="generic-library/webp-lutin.git"           path="generic-library/webp-lutin"/>
 	<project name="generic-library/webm-lutin.git"           path="generic-library/webm-lutin"/>
 	<project name="generic-library/vpx-lutin.git"            path="generic-library/vpx-lutin"/>
+	<project name="generic-library/luaWrapper.git"            path="generic-library/luaWrapper"/>
 	<!--<project name="generic-library/cxx-lutin.git"            path="generic-library/cxx-lutin"/>-->
 	<!-- tools -->
 	<project name="generic-library/ios-deploy.git"  path="tools/ios-deploy"/>
