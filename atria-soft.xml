@@ -26,4 +26,5 @@
 	<project name="atria-soft/echrono.git"     path="atria-soft/echrono"/>
 	<project name="atria-soft/fluorine.git"    path="atria-soft/fluorine"/>
 	<project name="atria-soft/ephysics.git"    path="atria-soft/ephysics"/>
+	<project name="atria-soft/dollar.git"    path="atria-soft/dollar"/>
 </manifest>
